@@ -1,0 +1,54 @@
+.app__features {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin-top: 7rem;
+}
+
+.app__feat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.app__feat-icon {
+  font-size: 9rem;
+  color: #fff;
+}
+
+.app__feat h3 {
+  font-size: 1.5rem;
+  font-weight: normal;
+  margin-top: 2rem;
+}
+
+.app__features-btn {
+  color: #fff;
+  background-color: #e60000;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  font-size: 1.1rem;
+  margin-top: 1rem;
+  transition: 0.3s ease;
+}
+
+.app__features-btn:hover {
+  background-color: #990000;
+}
+
+/******************** Small Dev****************************/
+
+@media screen and (max-width: 1000px) {
+  .app__features {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-top: 5rem;
+    gap: 4rem;
+  }
+  .app__features-btn {
+    width: calc(100% - 2rem);
+    margin-left: 1rem;
+    margin-right: 1rem;
+    text-align: center;
+    padding: 0.7rem;
+  }
+}

@@ -1,0 +1,46 @@
+.app__catenav {
+  background-color: var(--color-gray);
+}
+
+.app__catenav-container {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.8rem;
+}
+
+.app__category {
+  display: flex;
+}
+
+.app__category li,
+.app__lang {
+  padding: 0.5rem 1rem;
+  margin: 0 0.2rem;
+}
+
+.app__category li:hover,
+.app__lang:hover,
+.app__category li.active {
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.app__category li a,
+.app__lang a {
+  color: #fff;
+}
+
+.app__category li:hover a,
+.app__lang:hover a,
+.app__category li.active a {
+  color: var(--color-gray);
+}
+
+/******************** Mid Dev****************************/
+/******************** Small Dev****************************/
+
+@media (max-width: 768px) {
+  .app__catenav {
+    display: none;
+  }
+}

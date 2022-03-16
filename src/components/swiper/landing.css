@@ -1,0 +1,33 @@
+.app__swiper {
+}
+
+.app__banner {
+  width: 100%;
+  height: auto;
+}
+
+.swiper-pagination-bullet {
+  background-color: white !important;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: red !important;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: white !important;
+}
+
+/******************** Small Dev****************************/
+
+@media screen and (max-width: 1000px) {
+  .app_swiperslide {
+    width: max-content;
+    height: 50vh;
+    overflow: hidden;
+  }
+  .app__banner {
+    height: 30vh;
+  }
+}
