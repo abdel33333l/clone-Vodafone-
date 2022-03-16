@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/clone-Vodafone/static/css/main.0f9f07ec.css",
+    "main.js": "/clone-Vodafone/static/js/main.903326bf.js",
+    "static/media/banner-4.png": "/clone-Vodafone/static/media/banner-4.6bb293dacbc06780c586.png",
+    "static/media/Vodafone.eot": "/clone-Vodafone/static/media/Vodafone.127d2ca2332a8bb3a3d0.eot",
+    "static/media/Vodafone.ttf": "/clone-Vodafone/static/media/Vodafone.ecca583f7a13ba292671.ttf",
+    "static/media/banner-5.png": "/clone-Vodafone/static/media/banner-5.fd676b9ccf0a46637dbe.png",
+    "static/media/banner-7.jpeg": "/clone-Vodafone/static/media/banner-7.c0db68f51a255868a5fb.jpeg",
+    "static/media/banner-1.png": "/clone-Vodafone/static/media/banner-1.892ab62e600c7a0700c1.png",
+    "static/media/banner-2.jpeg": "/clone-Vodafone/static/media/banner-2.2a5e80841a161ff8c103.jpeg",
+    "static/media/Vodafone.woff": "/clone-Vodafone/static/media/Vodafone.70f605af099aba9f8eb9.woff",
+    "static/media/banner-6.jpeg": "/clone-Vodafone/static/media/banner-6.6399b1793c2fba3eaa71.jpeg",
+    "static/media/voda-logo.png": "/clone-Vodafone/static/media/voda-logo.0790988ff2787fe0b47e.png",
+    "static/media/banner-3.jpeg": "/clone-Vodafone/static/media/banner-3.f7a4835d4dbcb96fc54b.jpeg",
+    "static/media/Vodafone.woff2": "/clone-Vodafone/static/media/Vodafone.eb34a59e4fedfc968611.woff2",
+    "static/media/card-3.jpeg": "/clone-Vodafone/static/media/card-3.9238ef1b403a2d70c546.jpeg",
+    "static/media/card-1.jpeg": "/clone-Vodafone/static/media/card-1.f2cf0d2bb9cd87190f98.jpeg",
+    "static/media/card-4.jpeg": "/clone-Vodafone/static/media/card-4.dfa3ff4b9bf7d2a2d6f6.jpeg",
+    "static/media/card-2.jpeg": "/clone-Vodafone/static/media/card-2.cc27dac940b9d19bacf4.jpeg",
+    "index.html": "/clone-Vodafone/index.html",
+    "main.0f9f07ec.css.map": "/clone-Vodafone/static/css/main.0f9f07ec.css.map",
+    "main.903326bf.js.map": "/clone-Vodafone/static/js/main.903326bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f9f07ec.css",
+    "static/js/main.903326bf.js"
+  ]
+}
